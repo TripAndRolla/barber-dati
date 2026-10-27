@@ -1,0 +1,15 @@
+[
+ {
+  "id": "a27332c832a6",
+  "name": "Davide Renna",
+  "email": "davide.renna91@gmail.com",
+  "phone": "+39 3348505104",
+  "phone_key": "3348505104",
+  "phone_verified": false,
+  "codes": [],
+  "password_hash": "scrypt:32768:8:1$okkgAptmXMRE2xqO$fe42c9f5b035055e9225c3da7203ee5ce825edeee32648316fcccb426fcee60986d93f55a010508d1833f752bb27db285fc116417918dd7822c4b1d6dd8d102b",
+  "must_change_password": false,
+  "created_at": "2026-10-27T19:36:19",
+  "last_login": ""
+ }
+]
