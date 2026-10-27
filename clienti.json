@@ -6,7 +6,9 @@
   "phone": "+39 3348505104",
   "phone_key": "3348505104",
   "phone_verified": false,
-  "codes": [],
+  "codes": [
+   "PQDJ7C"
+  ],
   "password_hash": "scrypt:32768:8:1$mNHmen9vRpj0x1Pv$96c936296d0136eaddb75b713483522ce1b56551f03dc7ae3b9815b6b31ee5fde0c0385cb8c72ad03cac913b4e854b0da34824b75b12a1e38bde5b5d22b0af76",
   "must_change_password": false,
   "created_at": "2026-10-27T19:37:38",
