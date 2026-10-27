@@ -1,11 +1,11 @@
 # Agenda Prenotazioni
 
 Barber Shop Stefano Stella — file sincronizzato automaticamente dalla web app.
-Ultimo aggiornamento: 27/10/2026 18:59
+Ultimo aggiornamento: 27/10/2026 19:00
 
 | Codice | Data | Ora inizio | Ora fine | Cliente | Telefono | Email | Servizio | Prezzo | Stato | Note |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 3SG6SF | 2026-10-28 | 09:15 | 10:00 | Davide Renna | +39 3348505104 | davide.renna91@gmail.com | Taglio |  | confermata |  |
+| 3SG6SF | 2026-10-28 | 09:15 | 10:00 | Davide Renna | +39 3348505104 | davide.renna91@gmail.com | Taglio |  | cancellata |  |
 | GRCRHQ | 2026-10-28 | 09:15 | 10:00 | Davide Renna | +39 3348505104 | davide.renna91@gmail.com | Taglio |  | cancellata |  |
 | 6476VG | 2026-10-29 | 09:15 | 10:00 | Davide Renna | +39 3348505104 | davide.renna91@gmail.com | Taglio |  | cancellata |  |
 | LF75TK | 2026-10-29 | 09:15 | 10:00 | Davide Renna | +39 3348505104 | davide.renna91@gmail.com | Taglio |  | cancellata |  |
