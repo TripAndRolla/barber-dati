@@ -1,5 +1,20 @@
 [
  {
+  "id": "398ae3a7",
+  "at": "2026-10-27T19:00:08",
+  "type": "cancellazione",
+  "code": "S7WLVZ",
+  "name": "Davide Renna",
+  "phone": "+39 3348505104",
+  "service": "Taglio",
+  "day": "2026-10-29",
+  "new": "giovedì 29 ottobre 2026 alle 10:15",
+  "old": "",
+  "old_service": "",
+  "via": "area clienti",
+  "read": false
+ },
+ {
   "id": "ac86c9b1",
   "at": "2026-10-27T19:00:06",
   "type": "cancellazione",
