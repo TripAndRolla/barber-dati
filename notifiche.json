@@ -1,5 +1,20 @@
 [
  {
+  "id": "55d7812b",
+  "at": "2026-10-27T19:38:08",
+  "type": "nuova",
+  "code": "PQDJ7C",
+  "name": "Davide Renna",
+  "phone": "+39 3348505104",
+  "service": "Taglio",
+  "day": "2026-10-29",
+  "new": "giovedì 29 ottobre 2026 alle 09:15",
+  "old": "",
+  "old_service": "",
+  "via": "sito",
+  "read": false
+ },
+ {
   "id": "398ae3a7",
   "at": "2026-10-27T19:00:08",
   "type": "cancellazione",
