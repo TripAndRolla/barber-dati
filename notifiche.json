@@ -12,7 +12,7 @@
   "old": "",
   "old_service": "",
   "via": "sito",
-  "read": false
+  "read": true
  },
  {
   "id": "398ae3a7",
@@ -27,7 +27,7 @@
   "old": "",
   "old_service": "",
   "via": "area clienti",
-  "read": false
+  "read": true
  },
  {
   "id": "ac86c9b1",
@@ -42,7 +42,7 @@
   "old": "",
   "old_service": "",
   "via": "area clienti",
-  "read": false
+  "read": true
  },
  {
   "id": "bb8fc425",
@@ -57,6 +57,6 @@
   "old": "",
   "old_service": "",
   "via": "sito",
-  "read": false
+  "read": true
  }
 ]
