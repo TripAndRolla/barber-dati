@@ -1,5 +1,20 @@
 [
  {
+  "id": "4b6783e6",
+  "at": "2026-10-30T15:55:24",
+  "type": "nuova",
+  "code": "VJRHQV",
+  "name": "Davide Renna",
+  "phone": "+39 3348505104",
+  "service": "Barba",
+  "day": "2026-10-31",
+  "new": "sabato 31 ottobre 2026 alle 11:45",
+  "old": "",
+  "old_service": "",
+  "via": "sito",
+  "read": false
+ },
+ {
   "id": "55d7812b",
   "at": "2026-10-27T19:38:08",
   "type": "nuova",
